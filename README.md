@@ -1,8 +1,8 @@
-# Atharav-s-Portfolio
+# Atharav's Portfolio
 
-#Product Manager
+Aspiring Product Manager
 
-##Education
+Education
 MEM @Dartmouth College
 
 ###Projects
